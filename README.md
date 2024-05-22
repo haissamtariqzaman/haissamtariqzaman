@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haissam Tariq Zaman</h1>
-<h3 align="center">A passionate full stack engineer from Pakistan.</h3>
+<h3 align="center">A passionate full stack engineer from Pakistan</h3>
 - 🌱 I’m currently learning **Google Cloud**
 
 - 💬 Ask me about **React, NextJs, Flask, Javascript and Python**
