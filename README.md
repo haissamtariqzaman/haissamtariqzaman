@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haissam Tariq Zaman</h1>
 <h3 align="center">A passionate full stack engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **AWS and Rails**,
+- 🌱 I’m currently learning **AWS and Rails**
 
 - 💬 Ask me about **React, NextJs, Flask, Javascript, Ruby, Rails and Python**
 
